@@ -2,5 +2,17 @@
   background-color: #319FFF;
   text-align: center;
   color: #FFFFFF;
-  border-radius
+  border-radius: 30px;
+  padding: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  border: 0px;
+  transition: background-color 666ms;
+}
+.twtBtn:hover{
+  background-color: #319FCC;
+  cursor: pointer;
+  shadow: 0 0 0 50
 }
