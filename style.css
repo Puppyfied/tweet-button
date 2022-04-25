@@ -9,12 +9,7 @@
   font-size: 20px;
   font-weight: bold;
   border: 0px;
-  transition: background-color 200ms;
-  transition: box-shadow 200ms;
-  transition: padding 200ms;
-  transition: padding-right 200ms;
-  transition: padding-left 200ms;
-  transition: font-size 200ms;
+  transition: background-color 200ms, box-shadow 200ms, padding 200ms, padding-right 200ms, padding-left 200ms, font-size 200ms;
 }
 .twtBtn:hover{
   background-color: #319FDC;
