@@ -1,8 +1,6 @@
 var tweetBtn = document.getElementsByClassName("tweetBtn");
-
-document.addEventListener("click", alertWhyTwt)
-// alerts when tweet button is 
-function alertWhyTwt(){
-  alert("imagine tweeting");
-  
+var inputOfTweet = document.getElementsByClassName("inputOfTweet");
+tweetBtn.style.display = "hidden";
+if(inputOfTweet != ""){
+  tweet
 }
