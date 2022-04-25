@@ -10,9 +10,10 @@
   font-weight: bold;
   border: 0px;
   transition: background-color 666ms;
+  transition: box-shadow 666ms;
 }
 .twtBtn:hover{
-  background-color: #319FCC;
+  background-color: #319FDC;
   cursor: pointer;
-  shadow: 0 0 0 50
+  box-shadow: 3px 3px 3px #888888;
 }
