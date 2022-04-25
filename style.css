@@ -1,5 +1,5 @@
-.twtBtn {
-  background-color: #319fff;
+.tweetBtn {
+  background-color: #319fde;
   text-align: center;
   color: #ffffff;
   border-radius: 30px;
@@ -11,12 +11,15 @@
   transition: background-color 200ms, box-shadow 200ms, padding 200ms,
     padding-right 200ms, padding-left 200ms, font-size 200ms;
 }
-.twtBtn:hover {
-  background-color: #319fdc;
+.tweetBtn:hover {
+  background-color: #319fbc;
   cursor: pointer;
   box-shadow: 3px 3px 3px #888888;
   padding: 11px;
   padding-right: 22px;
   padding-left: 22px;
   font-size: 22px;
+}
+.tweetBtn:active{
+  background-color: 53Dfff
 }
