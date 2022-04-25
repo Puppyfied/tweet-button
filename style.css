@@ -1,18 +1,18 @@
-.twtBtn{
-  background-color: #319FFF;
+.twtBtn {
+  background-color: #319fff;
   text-align: center;
-  color: #FFFFFF;
+  color: #ffffff;
   border-radius: 30px;
   padding: 10px;
   padding-right: 20px;
   padding-left: 20px;
   font-size: 20px;
-  font-weight: bold;
   border: 0px;
-  transition: background-color 200ms, box-shadow 200ms, padding 200ms, padding-right 200ms, padding-left 200ms, font-size 200ms;
+  transition: background-color 200ms, box-shadow 200ms, padding 200ms,
+    padding-right 200ms, padding-left 200ms, font-size 200ms;
 }
-.twtBtn:hover{
-  background-color: #319FDC;
+.twtBtn:hover {
+  background-color: #319fdc;
   cursor: pointer;
   box-shadow: 3px 3px 3px #888888;
   padding: 11px;
